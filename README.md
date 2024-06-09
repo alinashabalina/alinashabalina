@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Alina</h1>
-- 🔭 I’m currently working on a website for **MA'AT photo project**
+ - 🔭 I’m currently working on a website for **MA'AT photo project**
 
-- 🌱 I’m currently learning **Ruby & Rails, Typescript, Angular**
+ - 🌱 I’m currently learning **Ruby & Rails, Typescript, Angular**
 
-- 🔭 I’m currently working on a **cemetry map app**
+ - 🔭 I’m currently working on a **cemetry map app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
