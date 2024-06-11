@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Alina</h1>
 🔭 Python + Vue : I’m currently working on a website for MA'AT photo project
+
 🔭 Ruby on Rails + Stimulus: I’m currently working on a **cemetry map app**
 
 🌱 I’m currently learning **Ruby & Rails, Typescript, Angular**
