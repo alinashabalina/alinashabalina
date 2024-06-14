@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alina</h1>
-🔭 Python + Vue : I’m currently working on a website for MA'AT photo project
+🔭 Python + Vue : I’m currently working on a website for <a href="https://www.instagram.com/maat.zine" target="_blank" rel="noreferrer">MA'AT photo project</a>
 
 🔭 Ruby on Rails + Stimulus: I’m currently working on a **cemetry map app**
 
