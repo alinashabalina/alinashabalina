@@ -3,7 +3,7 @@
 
 🔭 Ruby on Rails + Stimulus: I’m currently working on a **cemetry map app**
 
-🌱 I’m currently learning **Ruby & Rails, Typescript, Angular**
+🌱 I’m currently learning **Ruby & Ruby on Rails, Typescript, Angular**
 
 
 
