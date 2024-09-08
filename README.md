@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alina</h1>
-🔭 Python + Vue : I’m currently working on a website for <a href="https://www.instagram.com/maat.zine" target="_blank" rel="noreferrer">MA'AT photo project</a>, **cemetry map app** & **review-mw-gently app**
+🔭 Python + Vue : I’m currently working on a website for <a href="https://www.instagram.com/maat.zine" target="_blank" rel="noreferrer">MA'AT photo project</a>, cemetry map app for Germany & an ambitious "review-me-gently" app
 
 🌱 I’m currently learning **Ruby on Rails & Typescript**
 
