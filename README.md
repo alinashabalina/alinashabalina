@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Alina</h1>
+<h1 align="center">Hi, I'm Alina Shabalina 👋 </h1>
 🔭 Python + Vue : I’m currently working on a website for <a href="https://www.instagram.com/maat.zine" target="_blank" rel="noreferrer">MA'AT photo project</a>, cemetry map app for Germany & an ambitious "review-me-gently" app
 
 🌱 I’m currently learning **Ruby on Rails & Typescript**
+
+🤓 Women in Tech 2024/2025 Mentor (Cypress, JS, Pytest)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
